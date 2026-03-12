@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2025-01-15",
+    "product": "Keyboard",
+    "qty": "3",
+    "price": "2800"
+  },
+  {
+    "date": "2025-01-16",
+    "product": "Monitor",
+    "qty": "1",
+    "price": "22000"
+  }
+]
