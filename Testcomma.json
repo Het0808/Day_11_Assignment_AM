@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2025-01-15",
+    "product": "Laptop",
+    "qty": "2",
+    "price": "45000"
+  },
+  {
+    "date": "2025-01-16",
+    "product": "Mouse",
+    "qty": "5",
+    "price": "900"
+  }
+]
